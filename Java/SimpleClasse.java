@@ -6,6 +6,6 @@ public class SimpleClasse{
         SimpleClasse simpleClasse = new SimpleClasse();
         int a=3, b=5;
         System.out.println("La somme de " + a + " et " + b + " est : " + simpleClasse.somme(a,b) );
-        System.out.println("last changement!");
+        System.out.println("last changement!!!!");
     }
 }
